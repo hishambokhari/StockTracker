@@ -25,3 +25,12 @@ With your experience of building a few web applications already, you've been tas
 - Styling needs to be nice and presentable
 - No test framework required since its a prototype and the aim is to get the product up and running to display at the investors meeting
 - Core functionality, time and presentation are key factors
+
+
+# Authentication System:
+
+- Sign up (hashed password)password links
+- Login
+- Log out
+
+Build Auth using devise
